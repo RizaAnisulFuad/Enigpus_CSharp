@@ -1,0 +1,14 @@
+D:\upskilling\dotnet\Enigpus-CSharp\bin\Debug\net8.0\Enigpus-CSharp.exe
+D:\upskilling\dotnet\Enigpus-CSharp\bin\Debug\net8.0\Enigpus-CSharp.deps.json
+D:\upskilling\dotnet\Enigpus-CSharp\bin\Debug\net8.0\Enigpus-CSharp.runtimeconfig.json
+D:\upskilling\dotnet\Enigpus-CSharp\bin\Debug\net8.0\Enigpus-CSharp.dll
+D:\upskilling\dotnet\Enigpus-CSharp\bin\Debug\net8.0\Enigpus-CSharp.pdb
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\Enigpus-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\Enigpus-CSharp.AssemblyInfoInputs.cache
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\Enigpus-CSharp.AssemblyInfo.cs
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\Enigpus-CSharp.csproj.CoreCompileInputs.cache
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\Enigpus-CSharp.dll
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\refint\Enigpus-CSharp.dll
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\Enigpus-CSharp.pdb
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\Enigpus-CSharp.genruntimeconfig.cache
+D:\upskilling\dotnet\Enigpus-CSharp\obj\Debug\net8.0\ref\Enigpus-CSharp.dll
